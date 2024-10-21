@@ -29,5 +29,5 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/house-price-prediction.git
+   git clone https://github.com/medad-1/house-price-prediction.git
    cd house-price-prediction
